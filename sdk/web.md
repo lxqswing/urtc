@@ -46,7 +46,7 @@ UCloudRtcEngine.joinRoom({
         })
 ```
 
-### 4.2.获取本地音视频流  
+### 4.21.获取本地音视频流  
 
 ```js
 UCloudRtcEngine.getLocalStream({
